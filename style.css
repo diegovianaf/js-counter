@@ -32,7 +32,8 @@ div {
 }
 
 h1 {
-  font-size: 48px;
+  font-size: 64px;
+  font-weight: 700;
   letter-spacing: var(--letter-spacing);
 }
 
@@ -42,7 +43,8 @@ h1 {
 }
 
 .container #value {
-  font-size: 120px;
+  font-size: 96px;
+  font-weight: 600;
   padding: 10px;
   color: rgb(34, 34, 34);
 }
